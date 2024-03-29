@@ -91,7 +91,8 @@ events:
 ![demonstration of un-commenting step three][three-pillars-example-comment-step-three]
 
 We've activated all the parts of our code that stitch together the three pillars
-of front-end web programming. Let's go back to your browser and see what Simple
+of fron
+t-end web programming. Let's go back to your browser and see what Simple
 Liker looks like in action. You should now be able to like and unlike each post.
 
 ![working example of favoriting a post][three-pillars-example-working]
